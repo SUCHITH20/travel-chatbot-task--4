@@ -1,4 +1,4 @@
-# Travel Buddy: An Intent-Based Travel Chatbot
+Trip planner:Travel Chatbot
 
 <img align="left" width="300" border="5" src="travel_buddy_preview.png">
 
